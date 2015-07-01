@@ -12,6 +12,8 @@ Categories:
   - web_framework
   - service
 
+Source-Url: https://github.com/ekkleesia2/openshift-origin-cartridge-cassandra_2.0.10.git
+
 Provides:
   - elasticsearch
   - elasticsearch-0.90.11
